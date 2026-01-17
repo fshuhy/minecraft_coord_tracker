@@ -1,0 +1,2 @@
+# minecraft_coord_tracker
+マインクラフトの座標キャプチャをリアルタイムで記録
